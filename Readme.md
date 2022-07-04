@@ -1,6 +1,10 @@
 
 #   Resume
 
+
+Running Demo : [Amit'sResume](https://skyamit.github.io/Amit-sResume/)
+
+
 This is developed to provide my background details through Resume
 
 Overview of Information available on resume:
@@ -39,8 +43,6 @@ Overview of Information available on resume:
 ## Appendix
 
 You can use the project just by getting the basic files
-
-Running Demo : [Amit'sResume](https://skyamit.github.io/Amit-sResume/)
  
 
 
