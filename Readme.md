@@ -40,7 +40,7 @@ Overview of Information available on resume:
 
 You can use the project just by getting the basic files
 
-Running Demo : [Amit'sResume](https://play.google.com/store/apps/details?id=amit.example.lilichatians)
+Running Demo : [Amit'sResume](https://skyamit.github.io/Amit-sResume/)
  
 
 
